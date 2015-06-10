@@ -46,3 +46,7 @@
   })();
 
 }).call(this);
+
+var foo={
+  class:1
+}

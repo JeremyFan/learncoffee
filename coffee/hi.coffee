@@ -26,3 +26,9 @@ alert "I knew it!" if elvis?
 
 # 数组 推导(comprehensions):
 cubes = (math.cube num for num in list)
+
+
+# basic
+# 不需要分号关闭表达式
+# 不需要花括号包裹代码块
+# 不需要圆括号表明函数被执行
